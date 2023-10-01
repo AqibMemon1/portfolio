@@ -17,9 +17,10 @@ links:
     icon_pack: fab
     name: Follow
     url: https://www.behance.net/gallery/138234119/Hybrid-VTOL-UAV
+    url_slides: 'https://docs.google.com/presentation/d/1URyCV1yfsdGaHzv-U9L07KhUISweAEUL/edit#slide=id.p1'
 url_code: ''
 url_pdf: ''
-url_slides: 'https://docs.google.com/presentation/d/1URyCV1yfsdGaHzv-U9L07KhUISweAEUL/edit#slide=id.p1'
+   
 url_video: ''
 
 # Slides (optional).
