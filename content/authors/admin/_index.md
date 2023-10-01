@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student of Robotics
+role: Student of Robotics and Control Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -28,6 +28,7 @@ bio: My research interests include aerial robotics, control systems and artifici
 interests:
   - Robotics
   - Control Theory
+  - Autonomous Systems
   - Artificial Intelligence
 
 # Education to show in About widget
@@ -76,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Aqib Habib is a student of robotics and control systems at the National University of Sciences and Technology. His research interests include aerial robotics, multi-agent control and autonomous systems.
 {style="text-align: justify;"}
