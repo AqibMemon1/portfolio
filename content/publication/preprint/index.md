@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
-authors:
+title: "Design and Manufacturing of Hybrid Vertical Takeoff and Landing (VTOL) UAV"
+authors:  
 - admin
 date: "2019-04-07T00:00:00Z"
-doi: ""
+doi: "http://dx.doi.org/10.13140/RG.2.2.25574.40009"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-09-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,16 +27,16 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+- name: Project Link
+  url: (https://www.behance.net/gallery/138234119/Hybrid-VTOL-UAV)
+url_pdf: (https://www.researchgate.net/profile/Aqib-Habib-4/publication/374294529_Design_and_Manufacturing_of_Hybrid_Vertical_Takeoff_and_Landing_VTOL_UAV/links/6517c71b3ab6cb4ec6acdc9a/Design-and-Manufacturing-of-Hybrid-Vertical-Takeoff-and-Landing-VTOL-UAV.pdf?origin=publicationDetail&_sg%5B0%5D=bS9_lq4wltFDldhC_YiKjyhGnw5N60mIFwo_fjGoS3QKJlPKNnb6wjsr8-1iy_35rGq5rYTykXWa7DXvgt52cQ.SWD24_sBqr-1lpMVacO9MFbvymsvMF13TO4ddsyuD7cwfMgBiUI30gCdzVxsBagz11x_AU0K9jVepN_moBoj2g&_sg%5B1%5D=tD18ySzWtNJSR5RZTWni8SvtLaYtR6Kz8F2wsNOeTuaS_THdjPpz9Kv9RAloHYCmv4SaeDWK20oewOGrSkjhv1sQ81V8ZmzjDJH1yWBNFPSY.SWD24_sBqr-1lpMVacO9MFbvymsvMF13TO4ddsyuD7cwfMgBiUI30gCdzVxsBagz11x_AU0K9jVepN_moBoj2g&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHVibGljYXRpb24iLCJwcmV2aW91c1BhZ2UiOiJfZGlyZWN0Iiwic2VjdGlvbiI6InBhZ2VIZWFkZXIifX0)
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
