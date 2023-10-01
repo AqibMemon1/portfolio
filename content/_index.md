@@ -122,27 +122,7 @@ sections:
               * Facility Upgradation Plan with Feasibility Report
      
       columns: '2'
-  - block: Courses
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'courses'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: 'https://coursera.org/share/c1c9f8f8fc3b95797f6f82d9e94f8866'
-          date_end: ''
-          date_start: '2023-09-29'
-          description: ''
-          organization: Coursera
-          organization_url: 'coursera.org'
-          title: 'Modern Robotics: Mechanics, Planning, and Control Specialization'
-          url: 'https://www.coursera.org/learn/modernrobotics-course1'
+  
   
   - block: accomplishments
     content:
