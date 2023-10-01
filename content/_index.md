@@ -134,18 +134,18 @@ sections:
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-    items:
+     items:
         - certificate_url: 'https://drive.google.com/file/d/1F9UDgnnjY3gvX7p7tDqT-ZfB8jA7F5ZZ/view?usp=sharing'
-      #   date_end: ''
-      #   date_start: '2021-01-25'
+         date_end: ''
+         date_start: '2021-01-25'
           description: 'Awarded for Best Undergraduate Thesis and Project'
           organization: NUST
           organization_url: 'www.nust.edu.pk'
           title: Rector's Gold Medal
           url: ''
         - certificate_url: 'https://drive.google.com/file/d/1nyZhZ5fDcWBgQ_5kUEZd68j9b8b94oLD/view?usp=sharing'
-       #   date_end: ''
-       #   date_start: '2021-01-01'
+          date_end: ''
+          date_start: '2021-01-01'
           description: Awarded for Positions in Student Competitions
           organization: NUST
           organization_url: 'www.nust.edu.pk'
