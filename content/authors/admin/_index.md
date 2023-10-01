@@ -19,7 +19,7 @@ role: Student of Robotics and Control Systems
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Turkish Aerospace Industries
-    url: tusas.com
+    url: https://www.tusas.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include robotics, control systems, motion planning, artificial intelligence and autonomous systems.
