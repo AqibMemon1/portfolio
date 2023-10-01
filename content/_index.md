@@ -238,8 +238,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: VTOL UAV
+          tag: VTOL UAV
         - name: Other
           tag: Demo
     design:
