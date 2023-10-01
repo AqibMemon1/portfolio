@@ -102,7 +102,7 @@ sections:
           company_logo: org-Arcelik
           location: Karachi, Pakistan
           date_start: '2022-07-15'
-          date_end: '2020-08-31'
+          date_end: '2022-08-31'
           description: |2-
               Responsibilities include:
               * Mathematical Modelling in MATLAB
@@ -122,6 +122,28 @@ sections:
               * Facility Upgradation Plan with Feasibility Report
      
       columns: '2'
+  - block: Courses
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'courses'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: 'https://coursera.org/share/c1c9f8f8fc3b95797f6f82d9e94f8866'
+          date_end: ''
+          date_start: '2023-09-29'
+          description: ''
+          organization: Coursera
+          organization_url: 'coursera.org'
+          title: 'Modern Robotics: Mechanics, Planning, and Control Specialization'
+          url: 'https://www.coursera.org/learn/modernrobotics-course1'
+  
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -137,28 +159,28 @@ sections:
       items:
         - certificate_url: 'https://drive.google.com/file/d/1F9UDgnnjY3gvX7p7tDqT-ZfB8jA7F5ZZ/view?usp=sharing'
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2022-06-25'
           description: 'Awarded for Best Undergraduate Thesis and Project'
           organization: NUST
           organization_url: 'www.nust.edu.pk'
           title: Rector's Gold Medal
-          url: ''
+          url: 'nust.edu.pk'
         - certificate_url: 'https://drive.google.com/file/d/1nyZhZ5fDcWBgQ_5kUEZd68j9b8b94oLD/view?usp=sharing'
           date_end: ''
-          date_start: '2021-01-01'
+          date_start: '2020-12-26'
           description: Awarded for Positions in Student Competitions
           organization: NUST
           organization_url: 'www.nust.edu.pk'
           title: Certificate and Gold Medal of Merit
        #  url: 'https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals'
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+       #        - certificate_url: https://www.datacamp.com
+       #          date_end: '2020-12-21'
+       #          date_start: '2020-07-01'
+       #          description: ''
+       #          organization: DataCamp
+       #          organization_url: https://www.datacamp.com
+       #          title: 'Object-Oriented Programming in R'
+       #          url: ''
     design:
       columns: '2'
   - block: collection
