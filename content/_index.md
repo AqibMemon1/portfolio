@@ -95,6 +95,7 @@ sections:
               * 3D Modelling in Solidworks
               * FDM 3D Printing
               * Design of Mechanisms and Actuators
+    
         - title: R&D Intern
           company: Dawlance Arcelik
           company_url: 'https://www.dawlance.com.pk/'
@@ -106,7 +107,8 @@ sections:
               Responsibilities include:
               * Mathematical Modelling in MATLAB
               * Lab Testing
-            - title: R&D Intern
+    
+        - title: R&D Intern
           company: Qadri Group of Companies
           company_url: 'https://www.qadrigroup.pk/'
           company_logo: org-QG
