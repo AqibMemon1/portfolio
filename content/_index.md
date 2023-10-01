@@ -158,6 +158,7 @@ sections:
           date_start: '2022-06-25'
           description: 'Awarded for Best Undergraduate Thesis and Project'
           organization: NUST
+          company_logo: org-gm
           organization_url: 'www.nust.edu.pk'
           title: Rector's Gold Medal
           url: 'nust.edu.pk'
