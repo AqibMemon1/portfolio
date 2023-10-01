@@ -57,7 +57,8 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: 
+ url_slides:'https://docs.google.com/presentation/d/1URyCV1yfsdGaHzv-U9L07KhUISweAEUL/edit#slide=id.p1'
 ---
 
 {{% callout note %}}
