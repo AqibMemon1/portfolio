@@ -118,7 +118,7 @@ sections:
           description: |2-
               Responsibilities include:
               * Gear Assembly Line Inspection
-              * Research on High-Speed Gear
+              * Research on High-Speed Gears
               * Facility Upgradation Plan with Feasibility Report
      
       columns: '2'
@@ -135,13 +135,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+        - certificate_url: https://drive.google.com/file/d/1F9UDgnnjY3gvX7p7tDqT-ZfB8jA7F5ZZ/view?usp=sharing
+      #    date_end: ''
+    # date_start: '2021-01-25'
+          description: 'Awarded for Best Undergraduate Thesis and Project'
+          organization: NUST
+          organization_url: nust.edu.pk
+          title: Rector's Gold Medal
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
