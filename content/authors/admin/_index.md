@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Aqib Habib is a student of robotics and control systems at the National University of Sciences and Technology. His research interests include aerial robotics, multi-agent control and autonomous systems.
+I am a student of robotics and control systems at the National University of Sciences and Technology. My research interests include aerial robotics, multi-agent control and autonomous systems.
 {style="text-align: justify;"}
