@@ -28,8 +28,7 @@ featured: false
 
 links:
 - name: Project Link
-  url: (https://www.behance.net/gallery/138234119/Hybrid-VTOL-UAV)
-url_pdf: (https://www.researchgate.net/profile/Aqib-Habib-4/publication/374294529_Design_and_Manufacturing_of_Hybrid_Vertical_Takeoff_and_Landing_VTOL_UAV/links/6517c71b3ab6cb4ec6acdc9a/Design-and-Manufacturing-of-Hybrid-Vertical-Takeoff-and-Landing-VTOL-UAV.pdf?origin=publicationDetail&_sg%5B0%5D=bS9_lq4wltFDldhC_YiKjyhGnw5N60mIFwo_fjGoS3QKJlPKNnb6wjsr8-1iy_35rGq5rYTykXWa7DXvgt52cQ.SWD24_sBqr-1lpMVacO9MFbvymsvMF13TO4ddsyuD7cwfMgBiUI30gCdzVxsBagz11x_AU0K9jVepN_moBoj2g&_sg%5B1%5D=tD18ySzWtNJSR5RZTWni8SvtLaYtR6Kz8F2wsNOeTuaS_THdjPpz9Kv9RAloHYCmv4SaeDWK20oewOGrSkjhv1sQ81V8ZmzjDJH1yWBNFPSY.SWD24_sBqr-1lpMVacO9MFbvymsvMF13TO4ddsyuD7cwfMgBiUI30gCdzVxsBagz11x_AU0K9jVepN_moBoj2g&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHVibGljYXRpb24iLCJwcmV2aW91c1BhZ2UiOiJfZGlyZWN0Iiwic2VjdGlvbiI6InBhZ2VIZWFkZXIifX0)
+  url: https://shorturl.at/aeCRY
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
