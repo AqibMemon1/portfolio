@@ -2,7 +2,7 @@
 title: "Design and Manufacturing of Hybrid Vertical Takeoff and Landing (VTOL) UAV"
 authors:  
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2023-10-07T00:00:00Z"
 doi: "http://dx.doi.org/10.13140/RG.2.2.25574.40009"
 
 # Schedule page publish date (NOT publication's date).
