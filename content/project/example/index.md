@@ -1,8 +1,8 @@
 ---
-title: Design of Hybrid VTOL UAV System
-summary: An example of using the in-built project page.
+title: Hybrid VTOL UAV System
+summary: Design and Manufacturing of Carbon Fibre Vertical Take-off and Landing UAV
 tags:
-  - Deep Learning
+  - VTOL UAV
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -19,7 +19,7 @@ links:
     url: https://www.behance.net/gallery/138234119/Hybrid-VTOL-UAV
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'https://docs.google.com/presentation/d/1URyCV1yfsdGaHzv-U9L07KhUISweAEUL/edit#slide=id.p1'
 url_video: ''
 
 # Slides (optional).
