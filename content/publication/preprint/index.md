@@ -29,6 +29,7 @@ featured: false
 links:
 - name: Project Link
   url: https://www.behance.net/gallery/138234119/Hybrid-VTOL-UAV
+  url_pdf: https://shorturl.at/aeCRY
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
