@@ -79,18 +79,46 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * 3D Modelling
-              * 3D Printing
+              * 3D Modelling in CATIA
+              * FDM 3D Printing
               * Design of Mechanisms and Actuators
         - title: Assistant Manager Mechanical
           company: Pakistan Ordnance Factory
           company_url: 'https://www.pof.gov.pk/'
           company_logo: org-x
           location: Wahh Cant, Pakistan
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-    design:
+          date_start: '2022-09-01'
+          date_end: '2022-12-31'
+          description: |2-
+              Responsibilities include:
+              * Mathematical Modelling in MATLAB
+              * 3D Modelling in Solidworks
+              * FDM 3D Printing
+              * Design of Mechanisms and Actuators
+        - title: R&D Intern
+          company: Dawlance Arcelik
+          company_url: 'https://www.dawlance.com.pk/'
+          company_logo: org-Arcelik
+          location: Karachi, Pakistan
+          date_start: '2022-07-15'
+          date_end: '2020-08-31'
+          description: |2-
+              Responsibilities include:
+              * Mathematical Modelling in MATLAB
+              * Lab Testing
+            - title: R&D Intern
+          company: Qadri Group of Companies
+          company_url: 'https://www.qadrigroup.pk/'
+          company_logo: org-QG
+          location: Lahore, Pakistan
+          date_start: '2021-07-26'
+          date_end: '2020-09-04'
+          description: |2-
+              Responsibilities include:
+              * Gear Assembly Line Inspection
+              * Research on High-Speed Gear
+              * Facility Upgradation Plan with Feasibility Report
+     
       columns: '2'
   - block: accomplishments
     content:
