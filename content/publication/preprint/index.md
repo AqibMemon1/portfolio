@@ -17,7 +17,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: The usage of UAVs has risen tremendously in recent years because of improved avionics and propulsion technology; nonetheless, there is a lot of demand to improve the range, endurance, speed, and ergonomics of UAVs. Neither a fixed wing nor a multi-rotor can solve all of these issues. What's required is a mix of the two configurations, which may considerably expand the usage of drones in a variety of applications. Due to the requirement for emergency operations, a novel idea is being developed in which an aircraft can fly and land vertically like a helicopter or other multi-rotor, as well as fly ahead like a fixed-wing aircraft, combining the best of both configurations. Our Hybrid VTOL UAV can take-off and land without a runway and hover in any required area with higher endurance and range than multi-rotor. Hence due to their ideal flight requirements for reconnaissance it can be used in military, disaster management, healthcare and mapping. In this report, a concept of a UAV is developed which is fully automated and can take off and land vertically with capability of performing a range of missions from product delivery to military reconnaissance. 
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -27,9 +27,9 @@ tags:
 featured: false
 
 links:
-  name: Project Link
+- name: Project Link
   url: https://www.behance.net/gallery/138234119/Hybrid-VTOL-UAV
-#  url_pdf: https://shorturl.at/aeCRY
+  url_pdf: https://shorturl.at/aeCRY
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
@@ -51,7 +51,7 @@ links:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+  project: example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
