@@ -32,7 +32,7 @@ links:
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
-# url_project: ''
+  url_project: '(https://www.behance.net/gallery/138234119/Hybrid-VTOL-UAV)'
 # url_slides: ''
 # url_source: '#'
 # url_video: '#'
