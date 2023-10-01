@@ -72,7 +72,7 @@ sections:
         - title: Structural Design Engineer
           company: Turkish Aerospace Industries
           company_url: 'www.tusas.com'
-          company_logo: org-gc
+          company_logo: org-TAI
           location: Islamabad, Pakistan
           date_start: '2023-01-02'
           date_end: ''
@@ -82,11 +82,11 @@ sections:
               * 3D Modelling
               * 3D Printing
               * Design of Mechanisms and Actuators
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+        - title: Assistant Manager Mechanical
+          company: Pakistan Ordnance Factory
+          company_url: 'https://www.pof.gov.pk/'
           company_logo: org-x
-          location: California
+          location: Wahh Cant, Pakistan
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
