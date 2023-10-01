@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Design of Hybrid VTOL UAV System
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: behance
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://www.behance.net/gallery/138234119/Hybrid-VTOL-UAV
 url_code: ''
 url_pdf: ''
 url_slides: ''
