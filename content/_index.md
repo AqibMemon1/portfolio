@@ -135,22 +135,22 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://drive.google.com/file/d/1F9UDgnnjY3gvX7p7tDqT-ZfB8jA7F5ZZ/view?usp=sharing
+        - certificate_url: 'https://drive.google.com/file/d/1F9UDgnnjY3gvX7p7tDqT-ZfB8jA7F5ZZ/view?usp=sharing'
       #   date_end: ''
       #   date_start: '2021-01-25'
           description: 'Awarded for Best Undergraduate Thesis and Project'
           organization: NUST
-          organization_url: nust.edu.pk
+          organization_url: 'www.nust.edu.pk'
           title: Rector's Gold Medal
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        - certificate_url: 'https://drive.google.com/file/d/1nyZhZ5fDcWBgQ_5kUEZd68j9b8b94oLD/view?usp=sharing'
+       #   date_end: ''
+       #   date_start: '2021-01-01'
+          description: Awarded for Positions in Student Competitions
+          organization: NUST
+          organization_url: 'www.nust.edu.pk'
+          title: Certificate and Gold Medal of Merit
+       #  url: 'https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals'
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
