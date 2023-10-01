@@ -85,7 +85,7 @@ sections:
         - title: Assistant Manager Mechanical
           company: Pakistan Ordnance Factory
           company_url: 'https://www.pof.gov.pk/'
-          company_logo: org-x
+          company_logo: org-POF
           location: Wahh Cant, Pakistan
           date_start: '2022-09-01'
           date_end: '2022-12-31'
