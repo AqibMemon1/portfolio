@@ -16,7 +16,7 @@ links:
   - icon: facebook
     icon_pack: fab
     name: Follow
-    URL: https://www.facebook.com/bajaracingnust
+    URL: [https://www.facebook.com/bajaracingnust]
     url_slides: 
 url_code: ''
 url_pdf: ''
@@ -32,6 +32,6 @@ slides:
 url_slides: ''
 ---
 
-The usage of UAVs has risen tremendously in recent years because of improved avionics and propulsion technology; nonetheless, there is a lot of demand to improve the range, endurance, speed, and ergonomics of UAVs. Neither a fixed wing nor a multi-rotor can solve all of these issues. What's required is a mix of the two configurations, which may considerably expand the usage of drones in a variety of applications. Due to the requirement for emergency operations, a novel idea is being developed in which an aircraft can fly and land vertically like a helicopter or other multi-rotor, as well as fly ahead like a fixed-wing aircraft, combining the best of both configurations.
-Our Hybrid VTOL UAV can take-off and land without a runway and hover in any required area with higher endurance and range than multi-rotor. Hence due to their ideal flight requirements for reconnaissance it can be used in military, disaster management, healthcare and mapping. In our project, a concept of a UAV is developed which is fully automated and can take off and land vertically with capability of performing a range of missions from product delivery to military reconnaissance. It is indigenous design made completely out of Carbon Fibre and 3D printed components.
+Baja SAE compeition is an international off-road buggy design and manufacturing competition held in USA every year. I spearheaded the team (Team Markhor) in 2019 with the hopes of competing in the event but due to COVID-19 we were not able to compete in 2020 and 2021. In 2022, we registered ourselves for our first competition and landed 4th position in the business presentation all over the world. Team Markhor is the only and first team from Pakistan that has competed in the SAE BAJA Competition.
+I served as a team captain from 2019 to 2022 and I had the opportunity to enhance both my technical and soft skills. 
 
