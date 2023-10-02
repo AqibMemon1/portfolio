@@ -143,7 +143,7 @@ sections:
           organization: Coursera
           organization_url: 'https://www.coursera.org/'
           title: 'Modern Robotics, Course 1: Foundations of Robot Motion'
-          url: 'nust.edu.pk'
+          url: 'https://www.coursera.org/learn/modernrobotics-course1'
     design:
       columns: '2'
         
