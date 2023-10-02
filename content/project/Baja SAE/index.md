@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: facebook
+  - icon: fb
     icon_pack: fab
     name: Follow
     url: (https://www.facebook.com/bajaracingnust)
