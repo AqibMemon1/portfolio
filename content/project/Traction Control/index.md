@@ -16,7 +16,7 @@ links:
   - icon: github
     icon_pack: fab
     name: Model
-    url: ''
+    url: 'https://github.com/AqibMemon1/portfolio/tree/main/content/project/Traction%20Control/MATLAB'
   - icon: pdf
     icon_pack: fab
     name: PDF
