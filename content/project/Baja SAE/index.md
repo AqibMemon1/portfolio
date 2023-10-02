@@ -16,7 +16,7 @@ links:
   - icon: facebook
     icon_pack: fab
     name: Follow
-    URL: https://www.facebook.com/bajaracingnust
+    URL: 'https://www.facebook.com/bajaracingnust'
     url_slides: 
 url_code: ''
 url_pdf: ''
@@ -29,7 +29,7 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: 
-url_slides: 'https://docs.google.com/presentation/d/1URyCV1yfsdGaHzv-U9L07KhUISweAEUL/edit#slide=id.p1'
+url_slides: ''
 ---
 
 The usage of UAVs has risen tremendously in recent years because of improved avionics and propulsion technology; nonetheless, there is a lot of demand to improve the range, endurance, speed, and ergonomics of UAVs. Neither a fixed wing nor a multi-rotor can solve all of these issues. What's required is a mix of the two configurations, which may considerably expand the usage of drones in a variety of applications. Due to the requirement for emergency operations, a novel idea is being developed in which an aircraft can fly and land vertically like a helicopter or other multi-rotor, as well as fly ahead like a fixed-wing aircraft, combining the best of both configurations.
