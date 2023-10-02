@@ -140,7 +140,7 @@ sections:
            organization: Coursera
            organization_url: 'www.coursera.org'
            title: 'Modern Robotics: Mechanics, Planning, and Control Specialization'
-
+           date_start: '2023-09-25'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
