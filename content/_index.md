@@ -135,9 +135,8 @@ sections:
           description: 'Modern Robotics: Mechanics, Planning, and Control Specialization'
           organization: Coursera
           organization_url: 'https://www.coursera.org/'
-          title: 'Modern Robotics, Course 1: Foundations of Robot Motion'
+          title: "Modern Robotics, Course 1: Foundations of Robot Motion"
           url: 'https://www.coursera.org/learn/modernrobotics-course1'
-        - certificate_url: ''
     design:
       columns: '2'
         
