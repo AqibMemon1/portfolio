@@ -141,8 +141,8 @@ sections:
           date_start: '2022-06-25'
           description: 'Modern Robotics: Mechanics, Planning, and Control Specialization'
           organization: Coursera
-          organization_url: '(https://www.coursera.org/)'
-          title: Modern Robotics, Course 1: Foundations of Robot Motion
+          organization_url: 'https://www.coursera.org/'
+          title: 'Modern Robotics, Course 1: Foundations of Robot Motion'
           url: 'nust.edu.pk'
     design:
       columns: '2'
