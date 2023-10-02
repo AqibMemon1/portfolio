@@ -2,7 +2,7 @@
 title: Vehicle Traction Control
 summary: MATLAB and Simulink Model of Vehicle Traction Control
 tags:
-  - Traction Control
+  - other
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
