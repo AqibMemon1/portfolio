@@ -139,10 +139,10 @@ sections:
         - certificate_url: 'https://www.coursera.org/account/accomplishments/verify/MYAF9UCH87WK'
           date_end: ''
           date_start: '2022-06-25'
-          description: 'Awarded for Best Undergraduate Thesis and Project'
-          organization: NUST
-          organization_url: 'www.nust.edu.pk'
-          title: Rector's Gold Medal
+          description: 'Modern Robotics: Mechanics, Planning, and Control Specialization'
+          organization: Coursera
+          organization_url: '(https://www.coursera.org/)'
+          title: Modern Robotics, Course 1: Foundations of Robot Motion
           url: 'nust.edu.pk'
     design:
       columns: '2'
