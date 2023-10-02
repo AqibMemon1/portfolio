@@ -128,13 +128,6 @@ sections:
        # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
        title: 'Courses'
        subtitle:
-       # Date format: https://wowchemy.com/docs/customization/#date-format
-       date_format: Jan 2006
-       # Accomplishments.
-       #   Add/remove as many `item` blocks below as you like.
-       #   `title`, `organization`, and `date_start` are the required parameters.
-       #   Leave other parameters empty if not required.
-       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
     items:
         - certificate_url: 'https://www.coursera.org/account/accomplishments/verify/MYAF9UCH87WK'
           date_end: ''
@@ -144,7 +137,8 @@ sections:
           organization_url: 'https://www.coursera.org/'
           title: 'Modern Robotics, Course 1: Foundations of Robot Motion'
           url: 'https://www.coursera.org/learn/modernrobotics-course1'
-
+    design:
+      columns: '2'
         
   - block: accomplishments
     content:
