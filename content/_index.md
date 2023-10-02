@@ -244,7 +244,7 @@ sections:
         - name: BAJA SAE
           tag: Baja SAE
         - name: Other
-          tag: Traction Control, Active Suspension
+          tag: [Traction Control, Active Suspension]
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
