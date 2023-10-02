@@ -17,6 +17,8 @@ links:
     icon_pack: fab
     name: Model
     URL: ''
+    name: 'PDF'
+    URL: ''
     url_slides: 
 url_code: ''
 url_pdf: ''
