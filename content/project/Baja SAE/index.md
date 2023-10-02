@@ -1,15 +1,15 @@
 ---
-title: Hybrid VTOL UAV System
-summary: Design and Manufacturing of Carbon Fibre Vertical Take-off and Landing UAV
+title: Society of Automotive Engineers BAJA Student Competition
+summary: Design and Manufacturing of off-road Buggy for BAJA SAE Arizona 2022
 tags:
-  - VTOL UAV
+  - Baja SAE
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: VTOL UAV System
+  caption: Society of Automotive Engineers BAJA Student Competition 
   focal_point: Smart
 
 links:
