@@ -13,11 +13,11 @@ image:
   focal_point: Smart
 
 links:
-  - icon: behance
+  - icon: facebook
     icon_pack: fab
     name: Follow
-    url: https://www.behance.net/gallery/138234119/Hybrid-VTOL-UAV
-    url_slides: 'https://docs.google.com/presentation/d/1URyCV1yfsdGaHzv-U9L07KhUISweAEUL/edit#slide=id.p1'
+    url: (https://www.facebook.com/bajaracingnust)
+    url_slides: 
 url_code: ''
 url_pdf: ''
    
