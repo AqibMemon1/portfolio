@@ -244,7 +244,7 @@ sections:
         - name: BAJA SAE
           tag: Baja SAE
         - name: Other
-          tag: Active Suspension,Traction Control
+          tag: ['Active Suspension','Traction Control']
 
     
     design:
