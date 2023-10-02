@@ -241,6 +241,8 @@ sections:
           tag: '*'
         - name: VTOL UAV
           tag: VTOL UAV
+        - name: BAJA SAE
+          tag: Baja SAE
         - name: Other
           tag: Demo
     design:
