@@ -71,7 +71,7 @@ sections:
       items:
         - title: Structural Design Engineer
           company: Turkish Aerospace Industries
-          company_url: 'tusas.com'
+          company_url: 'www.tusas.com'
           company_logo: org-TAI
           location: Islamabad, Pakistan
           date_start: '2023-01-02'
