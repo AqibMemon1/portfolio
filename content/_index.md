@@ -179,22 +179,22 @@ sections:
        #          url: ''
     design:
       columns: '2'
-  - block: accomplishments
-    content:
+#  - block: accomplishments
+#    content:
        # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-       title: 'Courses'
-       subtitle:
-    items:
-        - certificate_url: 'https://www.coursera.org/account/accomplishments/verify/MYAF9UCH87WK'
-          date_end: ''
-          date_start: '2022-06-25'
-          description: 'Modern Robotics: Mechanics, Planning, and Control Specialization'
-          organization: Coursera
-          organization_url: 'https://www.coursera.org/'
-          title: "Modern Robotics, Course 1: Foundations of Robot Motion"
-          url: 'https://www.coursera.org/learn/modernrobotics-course1'
-    design:
-      columns: '2'
+ #      title: 'Courses'
+ #      subtitle:
+ #   items:
+ #       - certificate_url: 'https://www.coursera.org/account/accomplishments/verify/MYAF9UCH87WK'
+  #        date_end: ''
+  #        date_start: '2022-06-25'
+  #        description: 'Modern Robotics: Mechanics, Planning, and Control Specialization'
+  #        organization: Coursera
+  #        organization_url: 'https://www.coursera.org/'
+  #        title: "Modern Robotics, Course 1: Foundations of Robot Motion"
+  #        url: 'https://www.coursera.org/learn/modernrobotics-course1'
+#    design:
+ #     columns: '2'
       
  #  - block: collection
  #    id: posts
