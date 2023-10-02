@@ -123,7 +123,7 @@ sections:
      
       columns: '2'
   
-  - block: accomplishments
+  - block: courses
     content:
        # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
        title: 'Courses'
@@ -135,11 +135,12 @@ sections:
        #   `title`, `organization`, and `date_start` are the required parameters.
        #   Leave other parameters empty if not required.
        #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-       items:
+    items:
          - certificate_url: 'https://coursera.org/share/c1c9f8f8fc3b95797f6f82d9e94f8866'
            organization: Coursera
            organization_url: 'www.coursera.org'
-           title: 'Modern Robotics: Mechanics, Planning, and Control Specialization'  
+           title: 'Modern Robotics: Mechanics, Planning, and Control Specialization'
+
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
