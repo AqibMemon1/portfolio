@@ -144,6 +144,8 @@ sections:
           organization_url: 'www.nust.edu.pk'
           title: Rector's Gold Medal
           url: 'nust.edu.pk'
+    design:
+      columns: '2'    
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
