@@ -16,11 +16,11 @@ links:
   - icon: github
     icon_pack: fab
     name: Model
-    URL: ''
+    url: ''
   - icon: pdf
     icon_pack: fab
     name: PDF
-    URL: 'https://github.com/AqibMemon1/portfolio/blob/main/content/project/Traction%20Control/Report/Traction%20Control.pdf'
+    url: 'https://github.com/AqibMemon1/portfolio/blob/main/content/project/Traction%20Control/Report/Traction%20Control.pdf'
     url_slides: 
 url_code: ''
 url_pdf: ''
