@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: fb
+  - icon: facebook
     icon_pack: fab
     name: Follow
-    url: (https://www.facebook.com/bajaracingnust)
+    URL: https://www.facebook.com/bajaracingnust
     url_slides: 
 url_code: ''
 url_pdf: ''
