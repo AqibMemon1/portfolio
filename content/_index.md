@@ -123,7 +123,7 @@ sections:
      
       columns: '2'
   
-  - block: courses
+  - block: accomplishments
     content:
        # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
        title: 'Courses'
