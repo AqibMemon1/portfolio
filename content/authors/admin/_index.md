@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student of Robotics and Control
+role: Structural Design Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
