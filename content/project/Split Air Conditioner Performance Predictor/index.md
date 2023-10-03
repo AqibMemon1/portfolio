@@ -20,7 +20,7 @@ links:
   - icon: pdf
     icon_pack: fab
     name: PDF
-    URL: 'https://github.com/AqibMemon1/portfolio/blob/main/content/project/Split%20Air%20Conditioner%20Performance%20Predictor/Documentation/Model%20Documentation.pdf'
+    url: 'https://github.com/AqibMemon1/portfolio/blob/main/content/project/Split%20Air%20Conditioner%20Performance%20Predictor/Documentation/Model%20Documentation.pdf'
     url_slides: 'https://docs.google.com/presentation/d/1IP5rFbV_gzYRnZNRWKhQVHoj6VDDoKZY/edit?usp=sharing&ouid=109802478521749903077&rtpof=true&sd=true' 
 url_code: ''
 url_pdf: ''
