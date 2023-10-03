@@ -2,7 +2,7 @@
 title: Vehicle Active Suspension
 summary: MATLAB and Simulink Model of Active Suspension
 tags:
-  - Active Suspension
+  - Control Systems
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
