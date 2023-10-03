@@ -239,8 +239,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: VTOL UAV
-          tag: VTOL UAV
+        - name: Aerial Robotics
+          tag: Aerial Robotics
         - name: BAJA SAE
           tag: Baja SAE
         - name: AC Performance Prediction
