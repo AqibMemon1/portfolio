@@ -17,7 +17,6 @@ links:
     icon_pack: fab
     name: Follow
     url: https://www.behance.net/gallery/138234119/Hybrid-VTOL-UAV
-  - icon: 
     url_slides: 'https://docs.google.com/presentation/d/1URyCV1yfsdGaHzv-U9L07KhUISweAEUL/edit#slide=id.p1'
 url_code: ''
 url_pdf: 'https://www.researchgate.net/publication/374294529_Design_and_Manufacturing_of_Hybrid_Vertical_Takeoff_and_Landing_VTOL_UAV'
