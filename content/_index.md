@@ -149,22 +149,22 @@ sections:
           date_end: ''
           date_start: '2020-12-26'
           description: Awarded for Positions in Student Competitions
-          organization: 'National University of Sciences and Technology'
+          organization: National University of Sciences and Technology
           organization_url: www.nust.edu.pk
           title: Certificate and Gold Medal of Merit
         - certificate_url: 'https://drive.google.com/file/d/1y-THC-GZ7H4OvJGu0DFBBvztCJNq9cu0/view?usp=sharing'
           date_end: ''
           date_start: '2022-04-26'
           description: 3rd Position in ASME Speed CAD Challenge
-          organization: 'American Society of Mechanical Engineers'
-          organization_url: 'asme.org'
+          organization: American Society of Mechanical Engineers
+          organization_url: https://www.asme.org
           title: ASME Speed CAD Challenge
         - certificate_url: 'https://drive.google.com/file/d/1u3zTptTHnvG3WgAp6xMAT0vkN8NhzqCx/view?usp=sharing'
           date_end: ''
           date_start: '2020-12-26'
           description: 3rd Position in ASME National Team CAD Challenge
-          organization: 'American Society of Mechanical Engineers'
-          organization_url: 'asmne.org'
+          organization: American Society of Mechanical Engineers
+          organization_url: https://www.asme.org
           title: ASME Team CAD Challenge
        
        #  url: 'https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals'
