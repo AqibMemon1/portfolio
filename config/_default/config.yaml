@@ -5,7 +5,7 @@
 
 title: Portfolio # Website name
 baseURL: 'https://aqibhabib.netlify.app/' # Website URL
-
+remote_theme: starter-hugo-academic
 ############################
 ## LANGUAGE
 ############################
