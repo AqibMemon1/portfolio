@@ -243,8 +243,8 @@ sections:
           tag: Aerial Robotics
         - name: BAJA SAE
           tag: Baja SAE
-        - name: AC Performance Prediction
-          tag: AC Performance Predictor
+        - name: Internship Projects
+          tag: Internship Projects
         - name: Control Systems
           tag: Control Systems
 
