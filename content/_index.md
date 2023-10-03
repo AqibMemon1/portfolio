@@ -244,6 +244,8 @@ sections:
           tag: VTOL UAV
         - name: BAJA SAE
           tag: Baja SAE
+        - name: AC Performance Prediction
+          tag: AC Performance Predictor
         - name: Active Suspension
           tag: Active Suspension
         - name: Other
