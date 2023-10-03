@@ -1,8 +1,8 @@
 ---
-title: Hybrid VTOL UAV System
+title: Carbon Fibre Hybrid VTOL UAV System
 summary: Design and Manufacturing of Carbon Fibre Vertical Take-off and Landing UAV
 tags:
-  - VTOL UAV
+  - Aerial Robotics
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
