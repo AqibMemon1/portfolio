@@ -150,7 +150,7 @@ sections:
           date_start: '2020-12-26'
           description: Awarded for Positions in Student Competitions
           organization: National University of Sciences and Technology
-          organization_url: www.nust.edu.pk
+          organization_url: https://www.nust.edu.pk
           title: Certificate and Gold Medal of Merit
         - certificate_url: 'https://drive.google.com/file/d/1y-THC-GZ7H4OvJGu0DFBBvztCJNq9cu0/view?usp=sharing'
           date_end: ''
