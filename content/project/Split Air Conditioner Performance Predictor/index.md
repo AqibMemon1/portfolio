@@ -1,6 +1,6 @@
 ---
 title: Split Air Conditioner Performance Predictor
-summary: Modelling of Domestic Cooling Loads and Prediction of Split Air Conditioner's Performance in MATLAB/Simulink/Simscape
+summary: Modelling of Domestic Cooling Loads and Prediction of Split Air Conditioner's Performance in MATLAB and Simscape
 tags:
   - AC Performance Predictor
 date: '2016-04-27T00:00:00Z'
