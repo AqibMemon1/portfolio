@@ -1,6 +1,6 @@
 ---
-title: Carbon Fibre Hybrid VTOL UAV System
-summary: Design and Manufacturing of Carbon Fibre Vertical Take-off and Landing UAV
+title: Carbon Fibre Military VTOL UAV
+summary: Design and manufacturing of carbon fibre vertical take-off and landing UAV for military surveillance and reconnaissance
 tags:
   - Aerial Robotics
 date: '2016-04-27T00:00:00Z'
@@ -9,15 +9,15 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: VTOL UAV System
+  caption: Military VTOL UAV System
   focal_point: Smart
 
 links:
   - icon: behance
     icon_pack: fab
-    name: Follow
-    url: https://www.behance.net/gallery/138234119/Hybrid-VTOL-UAV
-    url_slides: 'https://docs.google.com/presentation/d/1URyCV1yfsdGaHzv-U9L07KhUISweAEUL/edit#slide=id.p1'
+    name: ''
+    url: 
+    url_slides: ''
 url_code: ''
 url_pdf: ''
    
@@ -32,5 +32,4 @@ slides:
 url_slides: 'https://docs.google.com/presentation/d/1URyCV1yfsdGaHzv-U9L07KhUISweAEUL/edit#slide=id.p1'
 ---
 
-The usage of UAVs has risen tremendously in recent years because of improved avionics and propulsion technology; nonetheless, there is a lot of demand to improve the range, endurance, speed, and ergonomics of UAVs. Neither a fixed wing nor a multi-rotor can solve all of these issues. What's required is a mix of the two configurations, which may considerably expand the usage of drones in a variety of applications. Due to the requirement for emergency operations, a novel idea is being developed in which an aircraft can fly and land vertically like a helicopter or other multi-rotor, as well as fly ahead like a fixed-wing aircraft, combining the best of both configurations.
-Our Hybrid VTOL UAV can take-off and land without a runway and hover in any required area with higher endurance and range than multi-rotor. Hence due to their ideal flight requirements for reconnaissance it can be used in military, disaster management, healthcare and mapping. In our project, a concept of a UAV is developed which is fully automated and can take off and land vertically with capability of performing a range of missions from product delivery to military reconnaissance. It is indigenous design made completely out of Carbon Fibre and 3D printed components.
+Ababeel VTOL-V5 is a conceptual long-range VTOL UAV for military reconnaissance, payload drop and surveillance missions. As a lead designer for the project, I was responsible for the design and manufacturing of the project including the designing of the outer mould line, aerodynamic performance, design of actuators and mechanisms, and control systems. The design is made completely out of carbon fibre using wet layup and vacuum bagging techniques. The most challenging part of the design was its tilt-wing and tilt-rotor mechanisms as we had to minimize the structural weight while having the capacity of mounting high thrust motors. Through intense prototyping by FDM 3D printing, we were able to come up with a working design. 
