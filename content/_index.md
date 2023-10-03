@@ -145,7 +145,6 @@ sections:
           organization: 'National University of Sciences and Technology'
           organization_url: 'www.nust.edu.pk'
           title: Rector's Gold Medal
-          url: 'nust.edu.pk'
         - certificate_url: 'https://drive.google.com/file/d/1nyZhZ5fDcWBgQ_5kUEZd68j9b8b94oLD/view?usp=sharing'
           date_end: ''
           date_start: '2020-12-26'
