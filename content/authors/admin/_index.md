@@ -38,7 +38,9 @@ education:
     
     - course: BE in Mechanical Engineering
       institution: National University of Sciences and Technology
-      year: 2022
+      year: 2018-2022
+    - course: MSc Robotics and Intelligent Machine Engineering
+      year: 2023-2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
