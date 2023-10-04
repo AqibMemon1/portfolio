@@ -241,8 +241,8 @@ sections:
           tag: '*'
         - name: Aerial Robotics
           tag: Aerial Robotics
-        - name: BAJA SAE
-          tag: Baja SAE
+        - name: Student Competitions
+          tag: Student Competitions
         - name: Internship Projects
           tag: Internship Projects
         - name: Control Systems
