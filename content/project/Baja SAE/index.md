@@ -2,7 +2,7 @@
 title: Society of Automotive Engineers BAJA Student Competition
 summary: Design and Manufacturing of off-road Buggy for BAJA SAE Arizona 2022
 tags:
-  - Baja SAE
+  - Student Competitions
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
