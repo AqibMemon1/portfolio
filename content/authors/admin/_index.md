@@ -39,7 +39,7 @@ education:
     - course: BE in Mechanical Engineering
       institution: National University of Sciences and Technology
       year: 2018-2022
-    - course: MSc Robotics and Intelligent Machine Engineering
+    - course: MSc Robotics
       institution: National University of Sciences and Technology
       year: 2023-2024
 
