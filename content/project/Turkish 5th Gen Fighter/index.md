@@ -1,6 +1,6 @@
 ---
 title: Turkish 5th Gen Fighter KAAN
-summary: Design and Manufacturing of Carbon Fibre Vertical Take-off and Landing UAV
+summary: Design and Manufacturing of 5th Gen Fighter Aircraft Demonstrator
 tags:
   - Aerial Robotics
 date: '2016-04-27T00:00:00Z'
