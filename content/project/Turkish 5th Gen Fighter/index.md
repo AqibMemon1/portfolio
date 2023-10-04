@@ -15,8 +15,8 @@ image:
 links:
   - icon: 
     icon_pack: fab
-    name: Follow
-    url: 
+    name: Project Details
+    url: https://www.tusas.com/urunler/yeni-projeler/ozgun/kaan
     url_slides: ''
 url_code: ''
 url_pdf: ''
