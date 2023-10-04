@@ -1,5 +1,5 @@
 ---
-title: Carbon Fibre Hybrid VTOL UAV System
+title: Buraaq VTOL UAV
 summary: Design and Manufacturing of Carbon Fibre Vertical Take-off and Landing UAV
 tags:
   - Aerial Robotics
