@@ -144,7 +144,7 @@ sections:
           description: 'Acceptance Letters from Imperial College London and University of Toronto under "75 Celebration of Independence Day of Pakistan Scholarship Program"'
           organization: Imperial College London and University of Toronto
           organization_url: https://www.imperial.ac.uk/
-          title: Acceptance Letter
+          title: 75th Celebration of Independence Day of Pakistan Scholarship Program
         - certificate_url: 'https://drive.google.com/file/d/1F9UDgnnjY3gvX7p7tDqT-ZfB8jA7F5ZZ/view?usp=sharing'
           date_end: ''
           date_start: '2022-06-25'
