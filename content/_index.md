@@ -138,7 +138,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-       - certificate_url: 'https://drive.google.com/file/d/1Y7GEiKHXdJl56Kk0JUUsTffC5tkWRxjW/view?usp=sharing'
+        - certificate_url: 'https://drive.google.com/file/d/1Y7GEiKHXdJl56Kk0JUUsTffC5tkWRxjW/view?usp=sharing'
           date_end: ''
           date_start: '2022-12-25'
           description: 'Acceptance Letters from Imperial College London and University of Toronto under "75 Celebration of Independence Day of Pakistan Scholarship Program"'
