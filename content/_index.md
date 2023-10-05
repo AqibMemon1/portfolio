@@ -188,7 +188,7 @@ sections:
 #  - block: accomplishments
 #    content:
        # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
- #      title: 'Courses'
+ #      title: 'Certifications'
  #      subtitle:
  #   items:
  #       - certificate_url: 'https://www.coursera.org/account/accomplishments/verify/MYAF9UCH87WK'
