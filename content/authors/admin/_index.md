@@ -26,7 +26,8 @@ bio: My research interests include aerial robotics, control systems and artifici
 
 # Interests to show in About widget
 interests:
-  - Robotics
+  - Aerial Robotics
+  - Flight Dynamics
   - Control Theory
   - Autonomous Systems
   - Artificial Intelligence
