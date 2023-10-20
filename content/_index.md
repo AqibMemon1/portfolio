@@ -83,7 +83,7 @@ sections:
               * Designing, testing and manufacturing of testing rigs and mockups
 
         - title: Assistant Manager Mechanical
-          company: Pakistan Ordnance Factory
+          company: Facility of Advanced Research and Integrated Systems
           company_url: 'https://www.pof.gov.pk/'
           company_logo: org-POF
           location: Wahh Cant, Pakistan
@@ -91,10 +91,9 @@ sections:
           date_end: '2022-12-31'
           description: |2-
               Responsibilities include:
-              * Mathematical Modelling in MATLAB
-              * 3D Modelling in Solidworks
-              * FDM 3D Printing
-              * Design of Mechanisms and Actuators
+              * Researched, analyzed and manufactured concept tilt-wing eVTOL UAVs
+              * Designed, tested and analyzed mounts, actuators, and mechanisms
+              * Manufactured using aluminium, CFRP, GFRP and  FDM 3D Printing
     
         - title: R&D Intern
           company: Dawlance Arcelik
@@ -105,21 +104,21 @@ sections:
           date_end: '2022-08-31'
           description: |2-
               Responsibilities include:
-              * Mathematical Modelling in MATLAB
-              * Lab Testing
+              * Designed and modelled domestic cooling loads and AC systems in MATLAB/Simscape
+              * Tested and analyzed split AC products in the HVAC Lab
     
         - title: R&D Intern
-          company: Qadri Group of Companies
+          company: National Engineering and Scientific Commission
           company_url: 'https://www.qadrigroup.pk/'
           company_logo: org-QG
-          location: Lahore, Pakistan
-          date_start: '2021-07-26'
-          date_end: '2020-09-04'
+          location: Islamabad, Pakistan
+          date_start: '2021-07-01'
+          date_end: '2020-08-31'
           description: |2-
               Responsibilities include:
               * Gear Assembly Line Inspection
-              * Research on High-Speed Gears
-              * Facility Upgradation Plan with Feasibility Report
+              * Researched on eVTOL UAVs and flight control systems
+              * Designed a tilt-rotor eVTOL UAV
      
       columns: '2'
   
