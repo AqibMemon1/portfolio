@@ -116,7 +116,6 @@ sections:
           date_end: '2020-08-31'
           description: |2-
               Responsibilities include:
-              * Gear Assembly Line Inspection
               * Researched on eVTOL UAVs and flight control systems
               * Designed a tilt-rotor eVTOL UAV
      
