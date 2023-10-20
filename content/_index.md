@@ -109,7 +109,7 @@ sections:
     
         - title: R&D Intern
           company: National Engineering and Scientific Commission
-          company_url: 'https://www.qadrigroup.pk/'
+          company_url: 'https://www.nti.org/education-center/facilities/national-engineering-and-scientific-commission-nescom/'
           company_logo: org-QG
           location: Islamabad, Pakistan
           date_start: '2021-07-01'
