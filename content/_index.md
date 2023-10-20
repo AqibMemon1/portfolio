@@ -78,10 +78,10 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
+              * Developing assemblies, mechanisms and parts for 5th generation scaled-fighter aircraft demonstrator UAV
+              * Prototyping of enclosures, parts and mechanisms using FDM 3-D printing
+              * Designing, testing and manufacturing of testing rigs and mockups
 
-              * 3D Modelling in CATIA
-              * FDM 3D Printing
-              * Design of Mechanisms and Actuators
         - title: Assistant Manager Mechanical
           company: Pakistan Ordnance Factory
           company_url: 'https://www.pof.gov.pk/'
