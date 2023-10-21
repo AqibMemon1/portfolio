@@ -1,5 +1,5 @@
 ---
-title: Ababeel V-5
+title: Ababeel V-5 eVTOL UAV
 summary: Design and manufacturing of carbon fibre vertical take-off and landing UAV for military surveillance and reconnaissance
 tags:
   - Aerial Robotics
