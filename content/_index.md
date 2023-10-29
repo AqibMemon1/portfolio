@@ -117,7 +117,7 @@ sections:
           description: |2-
               Responsibilities include:
               * Researched on eVTOL UAVs and flight control systems
-              * Designed a tilt-rotor eVTOL UAV
+              * Designed a fixed-wing eVTOL UAV
      
       columns: '2'
   
