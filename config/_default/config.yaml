@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Portfolio # Website name
+title: Portfolio | Aqib Habib # Website name
 baseURL: 'https://aqibhabib.netlify.app/' # Website URL
 remote_theme: starter-hugo-academic
 ############################
