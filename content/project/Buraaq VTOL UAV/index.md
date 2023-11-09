@@ -21,7 +21,7 @@ links:
 url_code: ''
 url_pdf: 'https://www.researchgate.net/publication/374294529_Design_and_Manufacturing_of_Hybrid_Vertical_Takeoff_and_Landing_VTOL_UAV'
    
-url_video: ''
+url_video: 'https://www-ccv.adobe.io/v1/player/ccv/CKs7SZK2JXp/embed?api_key=behance1&bgcolor=%2523191919'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
