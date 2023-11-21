@@ -16,7 +16,7 @@ links:
   - icon: facebook
     icon_pack: fab
     name: Follow
-    URL: [https://www.facebook.com/bajaracingnust]
+    URL: https://www.facebook.com/bajaracingnust
     url_slides: 
 url_code: ''
 url_pdf: ''
