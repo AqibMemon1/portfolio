@@ -164,14 +164,14 @@ sections:
           description: 3rd Position in ASME Speed CAD Challenge
           organization: American Society of Mechanical Engineers
           organization_url: https://www.asme.org
-          title: ASME Speed CAD Challenge
+          title: ASME Speed Design Challenge
         - certificate_url: 'https://drive.google.com/file/d/1u3zTptTHnvG3WgAp6xMAT0vkN8NhzqCx/view?usp=sharing'
           date_end: ''
           date_start: '2020-12-26'
           description: 3rd Position in ASME National Team CAD Challenge
           organization: American Society of Mechanical Engineers
           organization_url: https://www.asme.org
-          title: ASME Team CAD Challenge
+          title: ASME Team Design Challenge
        
        #  url: 'https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals'
        #        - certificate_url: https://www.datacamp.com
