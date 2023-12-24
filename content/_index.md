@@ -78,9 +78,9 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              *Successfully developed assemblies, parts, and mechanisms for 5th gen fighter aircraft demonstrator
-              *Successfully designed mockup models and testing rigs for the demonstrator
-              *Used FDM 3D printing for prototyping of parts, assemblies, and mechanisms
+            * Successfully developed assemblies, parts, and mechanisms for 5th gen fighter aircraft demonstrator
+            * Successfully designed mockup models and testing rigs for the demonstrator
+            * Used FDM 3D printing for prototyping of parts, assemblies, and mechanisms
 
         - title: Assistant Manager Mechanical
           company: Facility of Advanced Research and Integrated Systems
