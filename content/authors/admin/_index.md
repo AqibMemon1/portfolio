@@ -22,7 +22,7 @@ organizations:
     url: https://www.tusas.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include aerial robotics, control systems and artificial intelligence.
+bio: My research interests include aerial robotics, control systems and  SLAM.
 
 # Interests to show in About widget
 interests:
