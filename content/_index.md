@@ -78,9 +78,9 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Developing assemblies, mechanisms and parts for 5th generation scaled-fighter aircraft demonstrator UAV
-              * Prototyping of enclosures, parts and mechanisms using FDM 3-D printing
-              * Designing, testing and manufacturing of testing rigs and mockups
+            *Successfully developed assemblies, parts, and mechanisms for 5th gen fighter aircraft demonstrator
+            *Successfully designed mockup models and testing rigs for the demonstrator
+            *Used FDM 3D printing for prototyping of parts, assemblies, and mechanisms
 
         - title: Assistant Manager Mechanical
           company: Facility of Advanced Research and Integrated Systems
@@ -91,9 +91,10 @@ sections:
           date_end: '2022-12-31'
           description: |2-
               Responsibilities include:
-              * Researched, analyzed and manufactured concept tilt-wing eVTOL UAVs
-              * Designed, tested and analyzed mounts, actuators, and mechanisms
-              * Manufactured using aluminium, CFRP, GFRP and  FDM 3D Printing
+            *Researched, analyzed, and successfully manufactured a concept tilt-wing eVTOL UAV within 4 months
+            *Successfully designed and implemented tilt-rotor and tilt-wing mechanisms
+            *Utilized MATLAB and Simulink for mathematical models
+            *Used FDM 3D printing for prototyping of parts and mechanisms
     
         - title: R&D Intern
           company: Dawlance Arcelik
@@ -104,8 +105,8 @@ sections:
           date_end: '2022-08-31'
           description: |2-
               Responsibilities include:
-              * Designed and modelled domestic cooling loads and AC systems in MATLAB/Simscape
-              * Tested and analyzed split AC products in the HVAC Lab
+            *Successfully validated and designed a model for predicting cooling loads and refrigeration performance in MATLAB and Simulink
+            *Reduced cost by $30000 per month with the model implementation
     
         - title: R&D Intern
           company: National Engineering and Scientific Commission
@@ -116,8 +117,8 @@ sections:
           date_end: '2020-08-31'
           description: |2-
               Responsibilities include:
-              * Researched on eVTOL UAVs and flight control systems
-              * Designed a fixed-wing eVTOL UAV
+            *Researched on fixed-wing eVTOL UAVs and flight control systems
+            *Successfully designed a fixed-wing eVTOL UAV
      
       columns: '2'
   
