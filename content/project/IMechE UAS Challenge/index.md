@@ -1,5 +1,5 @@
 ---
-title: IMechE UAS Challenge, Pakistan
+title: IMechE UAS Challenge
 summary: Design and Manufacturing of Unmanned Aerial Vehicle
 tags:
   - Student Competitions
