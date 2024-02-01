@@ -32,4 +32,4 @@ slides:
 url_slides: ''
 ---
 
-Turkish Aerospace Industries has been working on its 5th-generation fighter aircraft program for over a decade. I had the opportunity to work on their flight demonstrator project, which is a scaled version of the actual aircraft. I am intensively involved in the design process of the aircraft ranging from the design of control surfaces, actuators, mechanisms, physical mockup models and prototyping. Over the last few months, we have been rigorously involved in testing our mechanisms and actuators using 3D printing. The project will start its flight tests soon in the upcoming year (2024).
+Turkish Aerospace Industries has been working on its 5th-generation fighter aircraft program for over a decade. I am intensively involved in the design process of the aircraft ranging from the design of control surfaces, actuators, mechanisms, physical mockup models, and prototyping using a range of technologies including 3D printing. Over the last few months, we have rigorously tested our mechanisms and actuators using 3D printing. The project will start its flight tests soon in the upcoming year (2024).
