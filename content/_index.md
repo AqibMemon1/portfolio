@@ -78,9 +78,12 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-            * Successfully developed assemblies, parts, and mechanisms for 5th gen fighter aircraft demonstrator
-            * Successfully designed mockup models and testing rigs for the demonstrator
-            * Used FDM 3D printing for prototyping of parts, assemblies, and mechanisms
+            * Successfully designed assemblies, parts, structures, and mechanisms using CATIA V5
+            * Successfully designed and manufactured molds for aircraft skin and control surfaces
+            * Successfully designed and manufactured mockup models and testing rigs.
+            * Utilized FDM 3D printing for prototyping of parts, assemblies, and mechanisms
+            * Constructed manufacturing and assembly drawings using ASME Y14.5 2007 GD&T tolerancing standards
+            * Utilized composite (CFRP) materials for the layup of functional parts.
 
     
         - title: R&D Intern
