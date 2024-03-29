@@ -82,19 +82,6 @@ sections:
             * Successfully designed mockup models and testing rigs for the demonstrator
             * Used FDM 3D printing for prototyping of parts, assemblies, and mechanisms
 
-        - title: Assistant Manager Mechanical
-          company: Facility of Advanced Research and Integrated Systems
-          company_url: 'https://www.pof.gov.pk/'
-          company_logo: org-POF
-          location: Wahh Cant, Pakistan
-          date_start: '2022-09-01'
-          date_end: '2022-12-31'
-          description: |2-
-              Responsibilities include:
-              * Researched, analyzed, and successfully manufactured a concept tilt-wing eVTOL UAV within 4 months
-              * Successfully designed and implemented tilt-rotor and tilt-wing mechanisms
-              * Utilized MATLAB and Simulink for mathematical models
-              * Used FDM 3D printing for prototyping of parts and mechanisms
     
         - title: R&D Intern
           company: Dawlance Arcelik
@@ -108,18 +95,7 @@ sections:
               * Successfully validated and designed a model for predicting cooling loads and refrigeration performance in MATLAB and Simulink
               * Reduced cost by $30000 per month with the model implementation
     
-        - title: R&D Intern
-          company: National Engineering and Scientific Commission
-          company_url: 'https://www.nti.org/education-center/facilities/national-engineering-and-scientific-commission-nescom/'
-          company_logo: org-QG
-          location: Islamabad, Pakistan
-          date_start: '2021-07-01'
-          date_end: '2020-08-31'
-          description: |2-
-              Responsibilities include:
-              * Researched on fixed-wing eVTOL UAVs and flight control systems
-              * Successfully designed a fixed-wing eVTOL UAV
-     
+         
       columns: '2'
   
   
