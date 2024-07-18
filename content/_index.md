@@ -69,7 +69,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        -title: Structural Design Engineer
+        - title: Structural Design Engineer
           company: Turkish Aerospace Industries
           company_url: 'https://www.tusas.com/'
           company_logo: org-TAI
