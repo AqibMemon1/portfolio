@@ -78,12 +78,12 @@ sections:
           date_end: '2024-05-20'
           description: |2-
               Responsibilities include:
-            * Utilizied CATIA V5 to lead the design of air superior aircraft flight demonstrator
-            * Used CFRP Composites and Aluminum for the manufacturing of aircraft parts
-            * Utilized additive manufacturing for the manufacturing of aircraft duct and control surfaces
-            * Delivered manufacturing and assembly drawings using CATIA V5 and GD&T
+            *Utilizied CATIA V5 to lead the design of air superior aircraft flight demonstrator
+            *Used CFRP Composites and Aluminum for the manufacturing of aircraft parts
+            *Utilized additive manufacturing for the manufacturing of aircraft duct and control surfaces
+            *Delivered manufacturing and assembly drawings using CATIA V5 and GD&T
     
-     - title: Assistant Manager
+       - title: Assistant Manager
           company: Facility of Advanced Research and Integrated Systems
           company_url: ''
           company_logo: org-POF
@@ -92,15 +92,13 @@ sections:
           date_end: '2022-12-31'
           description: |2-
               Responsibilities include:
-              * Utilized SolidWorks to lead the design of tilt-wing and tilt-rotor eVTOL UAV
-              * Delivered assemblies, structure and parts using Solidworks
-              * Used CFRP and GFRP Composites for the manufacturing of aircraft parts
-              * Delivered manufacturing and assembly drawings using CATIA V5 and GD&T
+              *Utilized SolidWorks to lead the design of tilt-wing and tilt-rotor eVTOL UAV
+              *Delivered assemblies, structure and parts using Solidworks
+              *Used CFRP and GFRP Composites for the manufacturing of aircraft parts
+              *Delivered manufacturing and assembly drawings using CATIA V5 and GD&T
          
       columns: '2'
-    
-
-    
+        
         - title: R&D Intern
           company: Dawlance Arcelik
           company_url: 'https://www.dawlance.com.pk/'
@@ -117,7 +115,7 @@ sections:
          
       columns: '2'
     
-    - title: Industrial Project
+      - title: Industrial Project
           company: National Engineering and Scientific Commission
           company_url: 'https://www.nti.org/education-center/facilities/national-engineering-and-scientific-commission-nescom/'
           company_logo: org-NESCOM
@@ -126,11 +124,11 @@ sections:
           date_end: '2022-06-31'
           description: |2-
               Responsibilities include:
-              *Utilized SolidWorks to lead the design of fixed-wing eVTOL UAV
-              *Delivered mathematical models for the conceptual/preliminary design phase using MATLAB
-              *Delivered additively manufactured motor mounts
-              *Performed FEA analyses of motor mounts using ANSYS
-              *Achieved Rector's Gold Medal for best undergraduate project and thesis
+              * Utilized SolidWorks to lead the design of fixed-wing eVTOL UAV
+              * Delivered mathematical models for the conceptual/preliminary design phase using MATLAB
+              * Delivered additively manufactured motor mounts
+              * Performed FEA analyses of motor mounts using ANSYS
+              * Achieved Rector's Gold Medal for best undergraduate project and thesis
          
       columns: '2'
 
