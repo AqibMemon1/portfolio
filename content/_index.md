@@ -69,7 +69,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-          title: Structural Design Engineer
+        - title: Structural Design Engineer
           company: Turkish Aerospace Industries
           company_url: 'https://www.tusas.com/'
           company_logo: org-TAI
@@ -78,10 +78,10 @@ sections:
           date_end: '2024-05-20'
           description: |2-
               Responsibilities include:
-              * Utilizied CATIA V5 to lead the design of air superior aircraft flight demonstrator
-              * Used CFRP Composites and Aluminum for the manufacturing of aircraft parts
-              * Utilized additive manufacturing for the manufacturing of aircraft duct and control surfaces
-              * Delivered manufacturing and assembly drawings using CATIA V5 and GD&T
+            * Utilizied CATIA V5 to lead the design of air superior aircraft flight demonstrator
+            * Used CFRP Composites and Aluminum for the manufacturing of aircraft parts
+            * Utilized additive manufacturing for the manufacturing of aircraft duct and control surfaces
+            * Delivered manufacturing and assembly drawings using CATIA V5 and GD&T
     
        - title: Assistant Manager
           company: Facility of Advanced Research and Integrated Systems
