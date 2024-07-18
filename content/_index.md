@@ -78,10 +78,10 @@ sections:
           date_end: '2024-05-20'
           description: |2-
               Responsibilities include:
-              *Utilizied CATIA V5 to lead the design of air superior aircraft flight demonstrator
-              *Used CFRP Composites and Aluminum for the manufacturing of aircraft parts
-              *Utilized additive manufacturing for the manufacturing of aircraft duct and control surfaces
-              *Delivered manufacturing and assembly drawings using CATIA V5 and GD&T
+              * Utilizied CATIA V5 to lead the design of air superior aircraft flight demonstrator
+              * Used CFRP Composites and Aluminum for the manufacturing of aircraft parts
+              * Utilized additive manufacturing for the manufacturing of aircraft duct and control surfaces
+              * Delivered manufacturing and assembly drawings using CATIA V5 and GD&T
     
         - title: Assistant Manager
           company: Facility of Advanced Research and Integrated Systems
@@ -92,10 +92,10 @@ sections:
           date_end: '2022-12-31'
           description: |2-
               Responsibilities include:
-              *Utilized SolidWorks to lead the design of tilt-wing and tilt-rotor eVTOL UAV
-              *Delivered assemblies, structure and parts using Solidworks
-              *Used CFRP and GFRP Composites for the manufacturing of aircraft parts
-              *Delivered manufacturing and assembly drawings using CATIA V5 and GD&T
+              * Utilized SolidWorks to lead the design of tilt-wing and tilt-rotor eVTOL UAV
+              * Delivered assemblies, structure and parts using Solidworks
+              * Used CFRP and GFRP Composites for the manufacturing of aircraft parts
+              * Delivered manufacturing and assembly drawings using CATIA V5 and GD&T
          
       columns: '2'
         
@@ -108,9 +108,9 @@ sections:
           date_end: '2022-08-31'
           description: |2-
               Responsibilities include:
-              *Delivered model-predictive refrigeration model using MATLAB and Simulink
-              *Reduced laboratory costs by $3000/month
-              *Validated model results within the HVAC lab
+              * Delivered model-predictive refrigeration model using MATLAB and Simulink
+              * Reduced laboratory costs by $3000/month
+              * Validated model results within the HVAC lab
     
          
       columns: '2'
@@ -124,11 +124,11 @@ sections:
           date_end: '2022-06-31'
           description: |2-
               Responsibilities include:
-              *Utilized SolidWorks to lead the design of fixed-wing eVTOL UAV
-              *Delivered mathematical models for the conceptual/preliminary design phase using MATLAB
-              *Delivered additively manufactured motor mounts
-              *Performed FEA analyses of motor mounts using ANSYS
-              *Achieved Rector's Gold Medal for best undergraduate project and thesis
+              * Utilized SolidWorks to lead the design of fixed-wing eVTOL UAV
+              * Delivered mathematical models for the conceptual/preliminary design phase using MATLAB
+              * Delivered additively manufactured motor mounts
+              * Performed FEA analyses of motor mounts using ANSYS
+              * Achieved Rector's Gold Medal for best undergraduate project and thesis
          
       columns: '2'
 
@@ -141,9 +141,9 @@ sections:
           date_end: '2022-09-04'
           description: |2-
               Responsibilities include:
-              *Researched and investigated assembly Lines for high-speed gears and gear-boxes Manufacturing
-              *Proposed new assembly line, upgradation plan and machines for gear manufacturing
-              *Analyzed market local industry import data and feasibility of gear manufacturing
+              * Researched and investigated assembly Lines for high-speed gears and gear-boxes Manufacturing
+              * Proposed new assembly line, upgradation plan and machines for gear manufacturing
+              * Analyzed market local industry import data and feasibility of gear manufacturing
          
       columns: '2'
   
