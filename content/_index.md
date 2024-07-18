@@ -83,7 +83,7 @@ sections:
             *Utilized additive manufacturing for the manufacturing of aircraft duct and control surfaces
             *Delivered manufacturing and assembly drawings using CATIA V5 and GD&T
     
-       - title: Assistant Manager
+        - title: Assistant Manager
           company: Facility of Advanced Research and Integrated Systems
           company_url: ''
           company_logo: org-POF
@@ -108,14 +108,14 @@ sections:
           date_end: '2022-08-31'
           description: |2-
               Responsibilities include:
-              * Delivered model-predictive refrigeration model using MATLAB and Simulink
-              * Reduced laboratory costs by $3000/month
-              * Validated model results within the HVAC lab
+              *Delivered model-predictive refrigeration model using MATLAB and Simulink
+              *Reduced laboratory costs by $3000/month
+              *Validated model results within the HVAC lab
     
          
       columns: '2'
     
-      - title: Industrial Project
+        - title: Industrial Project
           company: National Engineering and Scientific Commission
           company_url: 'https://www.nti.org/education-center/facilities/national-engineering-and-scientific-commission-nescom/'
           company_logo: org-NESCOM
@@ -124,15 +124,15 @@ sections:
           date_end: '2022-06-31'
           description: |2-
               Responsibilities include:
-              * Utilized SolidWorks to lead the design of fixed-wing eVTOL UAV
-              * Delivered mathematical models for the conceptual/preliminary design phase using MATLAB
-              * Delivered additively manufactured motor mounts
-              * Performed FEA analyses of motor mounts using ANSYS
-              * Achieved Rector's Gold Medal for best undergraduate project and thesis
+              *Utilized SolidWorks to lead the design of fixed-wing eVTOL UAV
+              *Delivered mathematical models for the conceptual/preliminary design phase using MATLAB
+              *Delivered additively manufactured motor mounts
+              *Performed FEA analyses of motor mounts using ANSYS
+              *Achieved Rector's Gold Medal for best undergraduate project and thesis
          
       columns: '2'
 
-       - title: R&D Intern
+        - title: R&D Intern
           company: Qadri Group of Companies
           company_url: 'https://www.qadrigroup.pk/'
           company_logo: org-QG
@@ -141,9 +141,9 @@ sections:
           date_end: '2022-09-04'
           description: |2-
               Responsibilities include:
-              * Researched and investigated assembly Lines for high-speed gears and gear-boxes Manufacturing
-              * Proposed new assembly line, upgradation plan and machines for gear manufacturing
-              * Analyzed market local industry import data and feasibility of gear manufacturing
+              *Researched and investigated assembly Lines for high-speed gears and gear-boxes Manufacturing
+              *Proposed new assembly line, upgradation plan and machines for gear manufacturing
+              *Analyzed market local industry import data and feasibility of gear manufacturing
          
       columns: '2'
   
