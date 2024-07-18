@@ -75,15 +75,30 @@ sections:
           company_logo: org-TAI
           location: Islamabad, Pakistan
           date_start: '2023-01-02'
-          date_end: ''
+          date_end: '2024-05-20'
           description: |2-
               Responsibilities include:
-            * Successfully designed assemblies, parts, structures, and mechanisms using CATIA V5
-            * Successfully designed and manufactured molds for aircraft skin and control surfaces
-            * Successfully designed and manufactured mockup models and testing rigs.
-            * Utilized FDM 3D printing for prototyping of parts, assemblies, and mechanisms
-            * Constructed manufacturing and assembly drawings using ASME Y14.5 2007 GD&T tolerancing standards
-            * Utilized composite (CFRP) materials for the layup of functional parts.
+            * Utilizied CATIA V5 to lead the design of air superior aircraft flight demonstrator
+            * Used CFRP Composites and Aluminum for the manufacturing of aircraft parts
+            * Utilized additive manufacturing for the manufacturing of aircraft duct and control surfaces
+            * Delivered manufacturing and assembly drawings using CATIA V5 and GD&T
+    
+     - title: Assistant Manager
+          company: Facility of Advanced Research and Integrated Systems
+          company_url: ''
+          company_logo: org-POF
+          location: Islamabad, Pakistan
+          date_start: '2022-09-05'
+          date_end: '2022-12-31'
+          description: |2-
+              Responsibilities include:
+              * Utilized SolidWorks to lead the design of tilt-wing and tilt-rotor eVTOL UAV
+              * Delivered assemblies, structure and parts using Solidworks
+              * Used CFRP and GFRP Composites for the manufacturing of aircraft parts
+              * Delivered manufacturing and assembly drawings using CATIA V5 and GD&T
+         
+      columns: '2'
+    
 
     
         - title: R&D Intern
@@ -95,9 +110,42 @@ sections:
           date_end: '2022-08-31'
           description: |2-
               Responsibilities include:
-              * Successfully validated and designed a model for predicting cooling loads and refrigeration performance in MATLAB and Simulink
-              * Reduced cost by $30000 per month with the model implementation
+              * Delivered model-predictive refrigeration model using MATLAB and Simulink
+              * Reduced laboratory costs by $3000/month
+              * Validated model results within the HVAC lab
     
+         
+      columns: '2'
+    
+    - title: Industrial Project
+          company: National Engineering and Scientific Commission
+          company_url: 'https://www.nti.org/education-center/facilities/national-engineering-and-scientific-commission-nescom/'
+          company_logo: org-NESCOM
+          location: Islamabad, Pakistan
+          date_start: '2021-04-01'
+          date_end: '2022-06-31'
+          description: |2-
+              Responsibilities include:
+              *Utilized SolidWorks to lead the design of fixed-wing eVTOL UAV
+              *Delivered mathematical models for the conceptual/preliminary design phase using MATLAB
+              *Delivered additively manufactured motor mounts
+              *Performed FEA analyses of motor mounts using ANSYS
+              *Achieved Rector's Gold Medal for best undergraduate project and thesis
+         
+      columns: '2'
+
+       - title: R&D Intern
+          company: Qadri Group of Companies
+          company_url: 'https://www.qadrigroup.pk/'
+          company_logo: org-QG
+          location: Lahore, Pakistan
+          date_start: '2021-07-15'
+          date_end: '2022-09-04'
+          description: |2-
+              Responsibilities include:
+              * Researched and investigated assembly Lines for high-speed gears and gear-boxes Manufacturing
+              * Proposed new assembly line, upgradation plan and machines for gear manufacturing
+              * Analyzed market local industry import data and feasibility of gear manufacturing
          
       columns: '2'
   
