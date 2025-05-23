@@ -78,10 +78,11 @@ sections:
           date_end: '2024-05-20'
           description: |2-
               Responsibilities include:
-              * Utilizied CATIA V5 to lead the design of air superior aircraft flight demonstrator
-              * Used CFRP Composites and Aluminum for the manufacturing of aircraft parts
-              * Utilized additive manufacturing for the manufacturing of aircraft duct and control surfaces
+              * Led the design of the vertical stabiliser for 5th gen fighter using CATIA V5
+              * Utilised CFRP Composites and aluminium for the manufacturing of aircraft parts
+              * Utilised additive manufacturing for the manufacturing of aircraft duct and control surfaces
               * Delivered manufacturing and assembly drawings using CATIA V5 and GD&T
+              * Delivered working prototype of the design
     
         - title: Assistant Manager
           company: Facility of Advanced Research and Integrated Systems
